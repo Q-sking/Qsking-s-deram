@@ -1,0 +1,4 @@
+# something help on deepin.  flathub software.
+# flatpak install com.obsproject.flatpakref
+# flatpak run com.obsproject.Studio
+# flatpak install flathub org.mozilla.Thunderbird
